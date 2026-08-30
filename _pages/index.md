@@ -1,34 +1,59 @@
 ---
 permalink: /
 title: "Home"
-excerpt: "Computer Vision PhD Student"
+excerpt: "Computer Vision Engineer"
 ---
 
-## About Me
+## About
 
-I am a Computer Vision PhD student at the Sinergies Lab, **Université Marie et Louis Pasteur**, France. My research focuses on deep learning for video understanding, with a primary emphasis on **real-time vision-based fall detection** and **action recognition**.
+I'm a computer vision engineer focused on building systems that work in the real world. Real-time, deployable, reliable. If it can't run on edge hardware, it doesn't matter.
 
-Previously, I earned my MEng in Data Science from ISEP in Paris and worked on applied computer vision solutions for smart cities.
+Currently finishing my PhD at Université Marie et Louis Pasteur while transitioning toward industry roles at major tech companies. My work spans fall detection systems, action recognition, and the practical challenges of deploying deep learning in constrained environments.
 
-## Research Interests
+I believe in understanding what's really happening under the hood—gradient flow, backpropagation, network dynamics. I'm inspired by Andrej Karpathy's foundational work on vision and learning.
 
-- **Core Focus**: Fall detection and action recognition in video sequences. Driven by the principle that if a computer vision model cannot be reliably deployed and executed in real-world conditions, it matters little—interested in practical, real-time edge deployment.
-
-- **Secondary Interests**: Transformers and vision-language models, fundamental mechanics of neural networks (gradient flow, backpropagation dynamics, representation learning).
-
-- **Philosophy**: As Andrej Karpathy put it, ["Yes, indeed, you need to understand backprop"](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b).
+---
 
 ## Experience
 
-- **Computer Vision Research Engineer & Teaching Assistant** — Université Marie et Louis Pasteur (Oct 2024–Present)
-- **Computer Vision Engineer Intern** — Upciti, Paris (Feb 2024 – Aug 2024)
-- **Data Analyst Intern** — bp, Baku (Jul 2021 – Sep 2021)
+**Computer Vision Engineer Intern** — Upciti, Paris (Feb 2024 – Aug 2024)
 
-## News
+Worked on vision-based waste detection systems for smart urban environments.
 
-- **2026**: Paper published in *Sensors*: "Real-Time Vision-Based Fall Detection Systems for the Elderly: A Systematic Review"
-- **2025**: Attended the Advanced Computer Vision Summer School at the University of Aberdeen & BMVA 2025
+**Data Analyst Intern** — British Petroleum, Baku (Jul 2021 – Sep 2021)
+
+Data-driven analysis and optimization.
+
+**Teaching** — Université Marie et Louis Pasteur (Feb 2025 – May 2026)
+
+Two years teaching at undergraduate and graduate levels.
+
+---
+
+## Learning & Inspiration
+
+My foundation in vision comes from deep dives into how neural networks work. I've learned from Andrej Karpathy's Vision course and Yann LeCun's machine learning fundamentals on YouTube. I'm obsessed with the mechanics—how gradients flow through layers, what representations networks learn, why backprop works.
+
+The goal is never just to use a tool; it's to understand why it works.
+
+---
 
 ## Languages
 
-French, English (Professional) | Turkish, Azerbaijani (Native)
+**Professional**: French, English  
+**Native**: Azerbaijani, Turkish
+
+---
+
+## Download CV
+
+<a href="/files/mahammad-cv.pdf" class="btn">📄 Download CV (PDF)</a>
+
+---
+
+## Contact
+
+**Personal Email**: [mahammad.nabizade@gmail.com](mailto:mahammad.nabizade@gmail.com)  
+**University Email**: [mahammad.nabizade@univ-fcomte.fr](mailto:mahammad.nabizade@univ-fcomte.fr)
+
+Find me on [GitHub](https://github.com/nmahammad) | [LinkedIn](https://www.linkedin.com/in/mahammad-nabizade/) | [Twitter](https://twitter.com/GradientFlow13) | [Google Scholar](https://scholar.google.com/citations?user=2Q85l2IAAAAJ)

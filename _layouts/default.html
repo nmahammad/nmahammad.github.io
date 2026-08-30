@@ -10,8 +10,14 @@
 <body>
     {% include header.html %}
     
-    <main>
-        {{ content }}
+    <main class="main-wrapper">
+        <div class="sidebar">
+            {% include author-bio.html %}
+        </div>
+        
+        <div class="content">
+            {{ content }}
+        </div>
     </main>
 
     {% include footer.html %}

@@ -41,7 +41,7 @@ Thesis title: "DAYNIGHT-CARE": AI-based fall detection platform for elderly indi
 
 **Computer Vision Engineer Intern** — Upciti, Paris (Feb 2024 – Aug 2024)
 
-Working on waste detection within smart city applications. Focused on real-time processing pipelines for urban environments.
+Working on waste detection within smart city applications. 
 
 **Data Analyst Intern** — British Petroleum, Baku (Jul 2021 – Sep 2021)
 

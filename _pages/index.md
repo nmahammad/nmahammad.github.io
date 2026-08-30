@@ -2,6 +2,7 @@
 permalink: /
 title: "Home"
 excerpt: "Computer Vision Engineer"
+layout: home
 ---
 
 Hello! I am a 3rd-year PhD student at SINERGIES Lab, Université Marie et Louis Pasteur. My research centers on visual action recognition and fall detection under extreme low-light and dark conditions.

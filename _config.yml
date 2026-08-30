@@ -1,0 +1,43 @@
+# Site
+locale: "en-US"
+title: "Mahammad Nabizade"
+tagline: "Computer Vision PhD Student"
+description: "Fall Detection & Action Recognition | Real-time Vision Systems"
+url: "https://nmahammad.github.io"
+baseurl: ""
+repository: "nmahammad/nmahammad.github.io"
+
+# Author
+author:
+  name: "Mahammad Nabizade"
+  avatar: "images/profile.png"
+  bio: "Computer Vision PhD Student & Research Engineer"
+  affiliation: "Université Marie et Louis Pasteur"
+  location: "Besançon, France"
+  email: "mahammad.nabizade@univ-fcomte.fr"
+  
+# Social
+social:
+  github: "nmahammad"
+  linkedin: "mahammad-nabizade"
+  twitter: "GradientFlow13"
+  google_scholar: "https://scholar.google.com/citations?user=2Q85l2IAAAAJ"
+
+# Build
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Defaults
+defaults:
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: "page"

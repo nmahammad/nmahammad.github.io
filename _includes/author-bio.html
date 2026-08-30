@@ -1,0 +1,18 @@
+<div class="author-bio">
+    <div class="author-avatar">
+        <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
+    </div>
+    <div class="author-info">
+        <h3>{{ site.author.name }}</h3>
+        <p><strong>{{ site.author.affiliation }}</strong></p>
+        <p>{{ site.author.bio }}</p>
+        <p>📍 {{ site.author.location }}</p>
+        <ul class="social-links">
+            <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+            <li><a href="https://github.com/{{ site.social.github }}" target="_blank">GitHub</a></li>
+            <li><a href="https://linkedin.com/in/{{ site.social.linkedin }}" target="_blank">LinkedIn</a></li>
+            <li><a href="https://twitter.com/{{ site.social.twitter }}" target="_blank">Twitter</a></li>
+            <li><a href="{{ site.social.google_scholar }}" target="_blank">Google Scholar</a></li>
+        </ul>
+    </div>
+</div>

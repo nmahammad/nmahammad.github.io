@@ -23,16 +23,20 @@ social:
   twitter: "GradientFlow13"
   google_scholar: "https://scholar.google.com/citations?user=2Q85l2IAAAAJ"
 
+# Include
+include:
+  - _pages
+
 # Build
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# Defaults - Apply to ALL markdown files
+# Defaults
 defaults:
   - scope:
-      path: ""
+      path: "_pages"
       type: "pages"
     values:
       layout: "page"

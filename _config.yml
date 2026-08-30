@@ -10,11 +10,12 @@ repository: "nmahammad/nmahammad.github.io"
 # Author
 author:
   name: "Mahammad Nabizade"
-  avatar: "images/profile.png"
+  avatar: "images/me.jpeg"
   bio: "Computer Vision PhD Student & Research Engineer"
   affiliation: "Université Marie et Louis Pasteur"
   location: "Besançon, France"
-  email: "mahammad.nabizade@univ-fcomte.fr"
+  email: "mahammad.nabizade@gmail.com"
+  university_email: "mahammad.nabizade@univ-fcomte.fr"
   
 # Social
 social:

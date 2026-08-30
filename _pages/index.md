@@ -47,5 +47,5 @@ University: [mahammad.nabizade@univ-fcomte.fr](mailto:mahammad.nabizade@univ-fco
 ---
 
 <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #ddd; text-align: center; font-size: 1.2rem; letter-spacing: 1rem;">
-[GitHub](https://github.com/nmahammad) · [LinkedIn](https://www.linkedin.com/in/mahammad-nabizade/) · [Twitter](https://twitter.com/GradientFlow13) · [Scholar](https://scholar.google.com/citations?user=2Q85l2IAAAAJ)
+<a href="https://github.com/nmahammad" style="text-decoration: none; color: #0066cc; margin: 0 1rem;">GitHub</a> · <a href="https://www.linkedin.com/in/mahammad-nabizade/" style="text-decoration: none; color: #0066cc; margin: 0 1rem;">LinkedIn</a> · <a href="https://twitter.com/GradientFlow13" style="text-decoration: none; color: #0066cc; margin: 0 1rem;">Twitter</a> · <a href="https://scholar.google.com/citations?user=2Q85l2IAAAAJ" style="text-decoration: none; color: #0066cc; margin: 0 1rem;">Scholar</a>
 </div>
